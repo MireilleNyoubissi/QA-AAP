@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ReplyForm from "../../components/ReplyForm/ReplyForm";
+import ReplyForm from "../ReplyForm/ReplyForm";
 import QuestionById from "../../components/QuestionById/QuestionById";
 import "./SelectedQtnThread.css";
 import DOMPurify from "dompurify";
